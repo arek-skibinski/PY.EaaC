@@ -13,7 +13,7 @@ Everything_as_a_Code by Python
   - PANDAS
   - NLP
   
- - AUTOTYZATION
+ - AUTOMATIZATION
    - PYTHON
    - MINISERVICES DOCKER
   
