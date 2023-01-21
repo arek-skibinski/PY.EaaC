@@ -3,11 +3,12 @@
 
 <h3> Everything_as_a_Code by Python <h3>
 
-<p>
-„Remember that all models are wrong:
-the practical question is how wrong do they have to be to not be useful”
-[George E.P. Box, 1987]
-</p>
+
+>> „Remember that all models are wrong:
+>> the practical question is how wrong do they have to be to not be useful”
+
+  [George E.P. Box, 1987]
+
 
 
 
