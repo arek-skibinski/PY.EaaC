@@ -15,3 +15,10 @@ Everything_as_a_Code by Python
   
  - AUTOTYZATION
    - PYTHON
+   - MINISERVICES DOCKER
+  
+  - ELASTIC
+    - ES storage
+    - filebats/python collector
+    - Reports
+    - NLP
