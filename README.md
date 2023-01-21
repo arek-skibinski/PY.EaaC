@@ -21,7 +21,7 @@
 
 - PYTHON
   - async
-  - OOP
+  - OOP/ decorators
   - API
  
 - ML/AI
