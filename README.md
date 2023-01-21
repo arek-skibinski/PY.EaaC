@@ -34,6 +34,6 @@
   
   - ELASTIC
     - ES storage
-    - filebats/python collector
+    - filebeats/python collector/parser
     - Reports
     - NLP
