@@ -1,8 +1,8 @@
 # PY.EaaC
 
 
-<h3> Everything_as_a_Code by Python <h3>
-
+<h3> Everything_as_a_Code by Python </h3>
+<h6> NETWORK PROGRAMMING by PY and AI </h6>
   
   ```
 
